@@ -1,0 +1,7 @@
+playwright
+beautifulsoup4
+pandas
+python-dotenv
+requests
+schedule
+rich
